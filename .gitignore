@@ -1,6 +1,3 @@
 **/.DS_Store
 .vscode
-.task
 .env
-count.out
-cmd/*
